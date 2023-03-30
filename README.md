@@ -16,8 +16,4 @@
 
 
 <p>
-Meu sonho é ser referência no mundo DEV! 
-
-Entusiasta de Tecnologia desde sempre, em 2019 comecei o curso de Ciência da Computação onde descobri que algo pulsa muito forte dentro de mim para a a área de Desenvolvimento de sistemas.
-
-Tenho dado foco total neste momento da minha vida em adquirir conhecimentos, dominar tecnologias e linguagens.<p>
+Meu sonho é ser referência no mundo DEV!
